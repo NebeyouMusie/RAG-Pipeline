@@ -1,7 +1,7 @@
 # RAG (Retrieval Augmented Generation) Pipeline
 - I have built a RAG pipeline to showcase how we can augmentLLM knowledge with additional data.
 
-## Visual Descrition of RAG Pipeline
+## Visual Description of RAG Pipeline
 ![RAG Pipeline Image](./image/rag.png)
 
 ## Description
