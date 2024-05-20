@@ -28,7 +28,7 @@
  4. Navigate to the projects directory `cd ./RAG-Pipeline` using your terminal
  5. Install Libraries: `pip install -r requirements.txt`
  6. Open and run all cells in the `rag_pipeline.ipynb` notebook
- 7. Or you can download the documents in the `files` directory and the `rag_pipeline.ipynb` Notebook from the repository, upload those files and notebook to Google Colab then run all the cells in the `rag_pipeline.ipynb` Notebook
+ 7. Or you can download the documents in the `files` directory and the `rag_pipeline.ipynb` Notebook from the repository, upload those files and notebook to Google Collab then run all the cells in the `rag_pipeline.ipynb` Notebook
 
 ## Collaboration
 - Collaborations are welcomed ❤️
